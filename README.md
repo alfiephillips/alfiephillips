@@ -1,16 +1,46 @@
 ### Hi there 👋
 
-<!--
-**AlfiePhillips/AlfiePhillips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is ***Alfie Phillips***, a 15 year old who's looking into software engineering. I started to code at the start of lockdown in 2020, having some experience being in a computer science class, and I noticed how amazing it was!
 
-Here are some ideas to get you started:
+## My Website 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a [website](https://www.alfiephillips.com)
+This displays most of my **projects**, and my **services** for what I do!
+
+### My favourite programming languages 😜
+
+# Python
+
+```python
+print("Hello World!")
+```
+# Javascript
+
+```javascript
+console.log("Hello World!");
+```
+
+# HTML
+
+```html
+<h1>Hello World!</h1>
+```
+
+
+## Usage
+
+```python
+import foobar
+
+foobar.pluralize('word') # returns 'words'
+foobar.pluralize('goose') # returns 'geese'
+foobar.singularize('phenomena') # returns 'phenomenon'
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
