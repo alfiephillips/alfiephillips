@@ -9,6 +9,8 @@ My name is ***Alfie Phillips***, a 15 year old who's looking into software engin
 I have a ***[website](https://www.alfiephillips.com)***
 which displays most of my **projects**, and my **services** for what I do!
 
+![](mygif.gif)
+
 ### My favourite programming languages 😜
 
 # Python
