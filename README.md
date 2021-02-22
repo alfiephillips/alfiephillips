@@ -1,56 +1,35 @@
-### Hi there, I'm ***Alfie*** 👋
+# Hi I'm Alfie Phillips, 15
+
+I am a python developer, mainly focused on
+projects such as webscraping, or managing data.
+I also enjoy making websites, and being a part
+of the Front-End Section.[website](https://www.alfiephillips.com)
+
+I'm also [freelancing on fiverr](https://www.fiverr.com/alfiephillips?up_rollout=true) and I'm currently offering Websites, Proofreading and detailed blogs.  
+If you want me to do something for you, you can also contact me on discord at 
+[alfiephillips#2414](https://discord.com/users/469240068591190020)
 
 
-## I'm a Developer, Retail Investor and Student!!
+## Reach me:
+- Through email at [info@alfiephillips.com](mailto://info@alfiephillips.com)
+- Through discord at [alfiephillips#2414](https://discord.com/users/469240068591190020)
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to increase my knowledge in programming.
-- 🥅 2021 Goals: Become great at software engineering
-- ⚡ Fun fact: I'm a day trader.
+## Current projects:
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  - [Calculator App Javascript](https://github.com/AlfiePhillips/calculator-javascript)
   
-<!--START_SECTION:activity-->
-***HAVEN'T DONE MUCH YET, check my profile!!***
-<!--END_SECTION:activity-->
+  [![Calculator App Javascript](https://github-readme-stats.vercel.app/api/pin/?username=AlfiePhillips&repo=calculator-javascript&theme=react)](https://github.com/AlfiePhillips/calculator-javascript)
 
-</details>
+  - [Notepad with database](https://github.com/AlfiePhillips/notepad)
+  
+  [![Notepad with database](https://github-readme-stats.vercel.app/api/pin/?username=AlfiePhillips&repo=notepad&theme=react)](https://github.com/AlfiePhillips/notepad)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+  - [Video views api](https://github.com/AlfiePhillips/video-views-db)
+  
+  [![Video views api](https://github-readme-stats.vercel.app/api/pin/?username=AlfiePhillips&repo=video-views-db&theme=react)](https://github.com/AlfiePhillips/video-views-db)
 
-  <img align="left" alt="Alfie's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlfiePhillips&show_icons=true&hide_border=true" />
+## General stats:
+[![Alfie's github stats](https://github-readme-stats.vercel.app/api?username=AlfiePhillips&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/AlfiePhillips?tab=repositories)
 
-</details>
-
-[website]: https://alfiephillips.com
-[twitter]: https://twitter.com/alfieephillipss
-[instagram]: https://instagram.com/alfieephillipss
-
-
+## My main languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takos22&layout=compact&langs_count=3&theme=react)](https://github.com/takos22?tab=repositories)
