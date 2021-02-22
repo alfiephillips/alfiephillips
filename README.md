@@ -6,7 +6,7 @@ My name is ***Alfie Phillips***, a 15 year old who's looking into software engin
 
 ## My Website 💻
 
-I have a [website](https://www.alfiephillips.com)
+I have a ***[website](https://www.alfiephillips.com)***
 This displays most of my **projects**, and my **services** for what I do!
 
 ### My favourite programming languages 😜
