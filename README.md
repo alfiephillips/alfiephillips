@@ -38,7 +38,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-
+***HAVEN'T DONE MUCH YET, check my profile!!***
 <!--END_SECTION:activity-->
 
 </details>
