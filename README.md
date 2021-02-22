@@ -2,6 +2,8 @@
 
 My name is ***Alfie Phillips***, a 15 year old who's looking into software engineering. I started to code at the start of lockdown in 2020, having some experience being in a computer science class, and I noticed how amazing it was!
 
+![You can reference me from this profile picture](My P)
+
 ## My Website 💻
 
 I have a [website](https://www.alfiephillips.com)
