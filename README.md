@@ -1,4 +1,4 @@
-### Hi there, I'm ***Alfie [website]*** 👋
+### Hi there, I'm ***Alfie*** 👋
 
 
 ## I'm a Developer, Retail Investor and Student!!
