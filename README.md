@@ -4,9 +4,9 @@
 ## I'm a Developer, Retail Investor and Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to increase my knowledge in programming.
 - 🥅 2021 Goals: Become great at software engineering
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I'm a day trader.
 
 ### Connect with me:
 
