@@ -16,9 +16,9 @@ If you want me to do something for you, you can also contact me on discord at
 
 ## Current projects:
 
-  - [Calculator App Javascript](https://github.com/AlfiePhillips/calculator-javascript)
+  - [Story Books App](https://github.com/AlfiePhillips/expressjs)
   
-  [![Calculator App Javascript](https://github-readme-stats.vercel.app/api/pin/?username=AlfiePhillips&repo=calculator-javascript&theme=react)](https://github.com/AlfiePhillips/calculator-javascript)
+  [![Calculator App Javascript](https://github-readme-stats.vercel.app/api/pin/?username=AlfiePhillips&repo=expressjs&theme=react)](https://github.com/AlfiePhillips/expressjs)
 
   - [Notepad with database](https://github.com/AlfiePhillips/notepad)
   
