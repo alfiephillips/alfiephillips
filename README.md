@@ -16,7 +16,7 @@ If you want me to do something for you, you can also contact me on discord at
 
 ## Current project:
 
-  - [Social Media App](https://github.com/AlfiePhillips/expressjs)
+  - [Social Media App](https://github.com/AlfiePhillips/social-media-app)
 
 ## General stats:
 [![Alfie's github stats](https://github-readme-stats.vercel.app/api?username=AlfiePhillips&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/AlfiePhillips?tab=repositories)
