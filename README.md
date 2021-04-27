@@ -14,19 +14,9 @@ If you want me to do something for you, you can also contact me on discord at
 - Through email at [info@alfiephillips.com](mailto://info@alfiephillips.com)
 - Through discord at [alfiephillips#2414](https://discord.com/users/469240068591190020)
 
-## Current projects:
+## Current project:
 
-  - [Story Books App](https://github.com/AlfiePhillips/expressjs)
-  
-  [![Calculator App Javascript](https://github-readme-stats.vercel.app/api/pin/?username=AlfiePhillips&repo=expressjs&theme=react)](https://github.com/AlfiePhillips/expressjs)
-
-  - [Notepad with database](https://github.com/AlfiePhillips/notepad)
-  
-  [![Notepad with database](https://github-readme-stats.vercel.app/api/pin/?username=AlfiePhillips&repo=notepad&theme=react)](https://github.com/AlfiePhillips/notepad)
-
-  - [Video views api](https://github.com/AlfiePhillips/video-views-db)
-  
-  [![Video views api](https://github-readme-stats.vercel.app/api/pin/?username=AlfiePhillips&repo=video-views-db&theme=react)](https://github.com/AlfiePhillips/video-views-db)
+  - [Social Media App](https://github.com/AlfiePhillips/expressjs)
 
 ## General stats:
 [![Alfie's github stats](https://github-readme-stats.vercel.app/api?username=AlfiePhillips&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/AlfiePhillips?tab=repositories)
