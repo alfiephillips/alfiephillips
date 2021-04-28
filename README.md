@@ -11,7 +11,7 @@ If you want me to do something for you, you can also contact me on discord at
 
 
 ## Reach me:
-- Through email at [info@alfiephillips.com](mailto://info@alfiephillips.com)
+- Through email at [thealfiephillips@gmail.com](mailto://thealfiephillips@gmail.com)
 - Through discord at [alfiephillips#2414](https://discord.com/users/469240068591190020)
 
 ## Current project:
