@@ -3,7 +3,7 @@
 I am a python developer, mainly focused on
 projects such as webscraping, or managing data.
 I also enjoy making websites, and being a part
-of the Front-End Section. [Website](https://www.alfiephillips.com)
+of the Front-End Section. [Click here for my Website!](https://www.alfiephillips.com)
 
 I'm also [freelancing on fiverr](https://www.fiverr.com/alfiephillips?up_rollout=true) and I'm currently offering Websites, Proofreading and detailed blogs.  
 If you want me to do something for you, you can also contact me on discord at 
