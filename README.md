@@ -13,7 +13,7 @@ I aim to improve my knowledge on Algorithms and Data structures for future codin
 
 ❗️ Contact me here, [DM me on Twitter](https://twitter.com/alfiephillips) or [Email me](mailto:thealfiephillips@gmail.com)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/469240068591190020)](https://discord.com/users/469240068591190020)
+[Discord](https://discord.com/users/469240068591190020)
   
 ## General stats:
 [![Alfie's github stats](https://github-readme-stats.vercel.app/api?username=alfiephillips&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/alfiephillips?tab=repositories)
