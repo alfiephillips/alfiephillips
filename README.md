@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/alfiephillips/alfiephillips/main/introduction.svg" alt="Hi there, I'm Alfie" />
 </h1>
 
