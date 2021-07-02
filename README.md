@@ -1,4 +1,4 @@
-# Hi I'm Alfie Phillips, 15
+# 👋 Hi I'm Alfie Phillips, 15
 
 I am a python developer, mainly focused on
 projects such as webscraping, or managing data.
