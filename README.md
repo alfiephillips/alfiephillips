@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/alfiephillips/alfiephillips/main/assets/images/introduction.svg" alt="Hi there, I'm Alfie" />
+  <img src="https://raw.githubusercontent.com/alfiephillips/alfiephillips/main/introduction.svg" alt="Hi there, I'm Alfie" />
 </h1>
 
 ## Current project:
