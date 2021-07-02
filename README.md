@@ -10,10 +10,9 @@ I aim to improve my knowledge on Algorithms and Data structures for future codin
 * [Twitter](https://twitter.com/alfiephillips)
 * [LinkedIn](https://www.linkedin.com/in/alfiephillips/)
 * [Instagram](https://www.instagram.com/alfieephillipss/)
+* [Discord](https://discord.com/users/469240068591190020)
 
 ❗️ Contact me here, [DM me on Twitter](https://twitter.com/alfiephillips) or [Email me](mailto:thealfiephillips@gmail.com)
-
-[Discord](https://discord.com/users/469240068591190020)
   
 ## General stats:
 [![Alfie's github stats](https://github-readme-stats.vercel.app/api?username=alfiephillips&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/alfiephillips?tab=repositories)
