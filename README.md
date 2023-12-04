@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Alfie Phillips, A 18 year old Software Engineer from the United Kingdom.
+## Hi, I'm Alfie Phillips, A 18 year old Software Engineer from the United Kingdom.
 
 Largely revolve around web development, using React and Javascript, and a tiny bit of Typescript. <br />
 <hr />
