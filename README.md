@@ -1,6 +1,6 @@
 ## Hi, I'm Alfie Phillips, A 18 year old Software Engineer from the United Kingdom.
 
-I'm currently expressing my interest in Machine Learning and AI (Artificial Intelligence). I'm very keen to learn about how data is manipulated to create specific models and predict outcomes. One of my first projects using machine learning is [Dog or Cat](https://github.com/alfiephillips/dog-or-cat)
+I'm currently expressing my interest in Machine Learning and AI (Artificial Intelligence). I'm very keen to learn about how data is manipulated to create specific models and predict outcomes. One of my first projects using machine learning is [Dog or Cat](https://github.com/alfiephillips/dog-or-cat) Also, I am currently developing a project 'LocalSeed' for my Year 2 Computer Science coursework at Truro College. LocalSeed is a micro-investment platform for small communities to depart as businesses and investors, financially exchanging to boost their local growth. You can find the repo here: [LocalSeed](https://github.com/alfiephillips/localseed)
 
 I also have 3 years of experience using backend technologies such as Python, NodeJS and Visual Basic to construct various APIs such as [Oberen (GraphQL)](https://github.com/oberen-hq/oberen/tree/prod/oberen__api).
 ### Here are my details 👇
