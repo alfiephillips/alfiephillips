@@ -4,9 +4,7 @@ I'm currently expressing my interest in Machine Learning and AI (Artificial Inte
 
 I also have 3 years of experience using backend technologies such as Python, NodeJS and Visual Basic to construct various APIs such as [Oberen (GraphQL)](https://github.com/oberen-hq/oberen/tree/prod/oberen__api).
 ### Here are my details 👇
-* [Twitter](https://twitter.com/alfiephillips)
 * [LinkedIn](https://www.linkedin.com/in/alfiephillips/)
-* [Discord](https://discord.com/users/469240068591190020)
 
 ❗️ Contact me here, [Email me](mailto:mail@alfiephillips)
   
