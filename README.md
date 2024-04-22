@@ -4,10 +4,12 @@ I'm currently expressing my interest in Machine Learning and AI (Artificial Inte
 
 Familiar technologies I use are 
 - HTML: Jinja Templating;
-- CSS: Tailwind CSS, Styled-Components, Chakra-UI, Material-UI;
+- CSS: Styled-Components, Chakra-UI, Material-UI;
 - Javascript/NodeJS: ExpressJS;
 - Python: Django, Flask, Pandas, BeautifulSoup, Selenium;
 - Visual Basic.
+
+I am currently studying how to use VueJs with NuxtJS! I'm also familiarizing myself with TailwindCSS.
 
 I also have 3 years of experience using backend technologies to construct various APIs such as [Oberen (GraphQL)](https://github.com/oberen-hq/oberen/tree/prod/oberen__api).
 ### Here are my details 👇
