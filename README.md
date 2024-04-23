@@ -11,7 +11,7 @@ Familiar technologies I use are
 
 I am currently studying how to use VueJs with NuxtJS! I'm also familiarizing myself with TailwindCSS.
 
-I also have 3 years of experience using backend technologies to construct various APIs such as [Oberen (GraphQL)](https://github.com/oberen-hq/oberen/tree/prod/oberen__api).
+I'm also nearing 5 years of experience using backend technologies to construct various APIs such as [Oberen (GraphQL)](https://github.com/oberen-hq/oberen/tree/prod/oberen__api).
 ### Here are my details 👇
 * [LinkedIn](https://www.linkedin.com/in/alfiephillips/)
 
