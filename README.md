@@ -9,7 +9,7 @@ Familiar technologies I use are
 - Python: Django, Flask, Pandas, BeautifulSoup, Selenium;
 - Visual Basic.
 
-I am currently studying how to use VueJs with NuxtJS! I'm also familiarizing myself with TailwindCSS.
+I am currently studying how to use VueJs with NuxtJS! I'm also familiarizing myself with TailwindCSS and integrating NitroJS as a server engine.
 
 I'm also nearing 5 years of experience using backend technologies to construct various APIs such as [Oberen (GraphQL)](https://github.com/oberen-hq/oberen/tree/prod/oberen__api).
 ### Here are my details 👇
