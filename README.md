@@ -19,7 +19,7 @@ Moreover, you can check out my custom-built discord bot that used in **Mark Tilb
 ❗️ Contact me here, [Email me](mailto:mail@alfiephillips)
   
 ## General stats:
-[![Stats](https://github-readme-stats.vercel.app/api?username=alfiephillips&show_icons=true&count_private=true&include_all_commits=true&theme=react)](https://github.com/alfiephillips?tab=repositories)
+[![Stats](https://github-readme-stats.vercel.app/api?username=alfiephillips&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/alfiephillips?tab=repositories)
 
 ## My main languages:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiephillips&layout=compact&langs_count=3&theme=react)](https://github.com/alfiephillips?tab=repositories)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiephillips&layout=compact&theme=dracula)](https://github.com/alfiephillips?tab=repositories)
