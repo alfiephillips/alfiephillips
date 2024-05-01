@@ -5,7 +5,7 @@ I'm currently expressing my interest in Machine Learning and AI (Artificial Inte
 Familiar technologies I use are 
 - HTML: Jinja Templating;
 - CSS: Styled-Components, Chakra-UI, Material-UI;
-- Javascript/NodeJS: ExpressJS;
+- Javascript/NodeJS: ExpressJS; React
 - Python: Django, Flask, Pandas, BeautifulSoup, Selenium;
 - Visual Basic.
 
