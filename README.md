@@ -9,10 +9,11 @@ Familiar technologies I use are
 - Python: Django, Flask, Pandas, BeautifulSoup, Selenium;
 - Visual Basic.
 
-I am currently studying how to use VueJs with NuxtJS! I'm also familiarizing myself with TailwindCSS and integrating NitroJS as a server engine.
+I am currently studying how to use VueJs with NuxtJS! I'm also familiarizing myself with TailwindCSS and integrating NitroJS as a server engine. This is what I'm using as a [Roadmap](https://roadmap.sh/vue).
 
-I'm also nearing 5 years of experience using backend technologies to construct various APIs such as [Oberen (GraphQL)](https://github.com/oberen-hq/oberen/tree/prod/oberen__api).
+I'm also nearing 5 years of experience using backend technologies to construct various APIs such as [Oberen (GraphQL)](https://github.com/oberen-hq/oberen/tree/prod/oberen__api) and a [Booking System](https://github.com/alfiephillips/booking-system).
 Moreover, you can check out my custom-built discord bot that was used in **Mark Tilbury's** discord server. [Check it out here](https://github.com/Alfie-Phillips/Mark-Tilbury)
+
 ### Here are my details 👇
 * [LinkedIn](https://www.linkedin.com/in/alfiephillips/)
 
