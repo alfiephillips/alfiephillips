@@ -8,6 +8,7 @@ Familiar technologies I use are
 - Javascript/NodeJS: ExpressJS; React; NextJS
 - Python: Django, Flask, Pandas, BeautifulSoup, Selenium;
 - Visual Basic.
+- PHP: Wordpress, Petite Vue
 
 I am currently studying how to use VueJs with NuxtJS! I'm also familiarizing myself with TailwindCSS. This is what I'm using as a [Roadmap](https://roadmap.sh/vue).
 
