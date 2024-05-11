@@ -1,6 +1,6 @@
 ## Hi, I'm Alfie Phillips, An 18 year old Software Engineer starting an Apprenticeship with [Hiyield](https://hiyield.co.uk) ✳️
 
-I'm currently expressing my interest in Machine Learning and AI (Artificial Intelligence). I'm very keen to learn about how data is manipulated to create specific models and predict outcomes. One of my first projects using machine learning is [Dog or Cat](https://github.com/alfiephillips/dog-or-cat) Also, I have just finished developing a project 'LocalSeed' for my Year 2 Computer Science coursework at Truro College. LocalSeed is a micro-investment platform for small communities to depart as businesses and investors, financially exchanging to boost their local growth. You can find the repo here: [LocalSeed](https://github.com/alfiephillips/localseed)
+I'm currently investing my study into creating bespoke applications with Wordpress using a variety of technologies such as PHP and Petite Vue. Also, I have just finished developing a project 'LocalSeed' for my Year 2 Computer Science coursework at Truro College. LocalSeed is a micro-investment platform for small communities to depart as businesses and investors, financially exchanging to boost their local growth. You can find the repo here: [LocalSeed](https://github.com/alfiephillips/localseed)
 
 Familiar technologies I use are 
 - HTML: Jinja Templating;
