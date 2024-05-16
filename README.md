@@ -1,4 +1,4 @@
-## Hi, I'm Alfie Phillips, An 18 year old Software Engineer starting an Apprenticeship with [Hiyield](https://hiyield.co.uk) ✳️
+## Hi I'm Alfie 👋, an Apprentice Software Developer [@Hiyield](https://hiyield.co.uk) ✳️
 
 I'm currently investing my study into creating bespoke applications with Wordpress using a variety of technologies such as PHP and Petite Vue. Also, I have just finished developing a project 'LocalSeed' for my Year 2 Computer Science coursework at Truro College. LocalSeed is a micro-investment platform for small communities to depart as businesses and investors, financially exchanging to boost their local growth. You can find the repo here: [LocalSeed](https://github.com/alfiephillips/localseed)
 
