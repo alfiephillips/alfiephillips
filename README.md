@@ -13,7 +13,7 @@ Familiar technologies I am learning or use are:
 ### Here are my details 👇
 * [LinkedIn](https://www.linkedin.com/in/alfiephillips/)
 
-❗️ Contact me here, [Email me](mailto:mail@alfiephillips)
+* [Email me](mailto:mail@alfiephillips)
   
 ## General stats:
 [![Stats](https://github-readme-stats.vercel.app/api?username=alfiephillips&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/alfiephillips?tab=repositories)
