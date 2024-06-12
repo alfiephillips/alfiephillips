@@ -22,7 +22,7 @@ I'm currently investing my study into creating bespoke applications with Wordpre
   - ![Selenium](https://img.shields.io/badge/Python-Selenium-green?logo=selenium&logoColor=white)
   - ![Discord](https://img.shields.io/badge/Python-Discord-blue?logo=discord&logoColor=white)
 - **Visual Basic**: ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-Visual%20Basic-blue?logo=visualstudio&logoColor=white)
-- **PHP**: ![](https://img.shields.io/badge/PHP-WordPress-blue?logo=wordpress&logoColor=white)
+- **PHP**: ![Wordpress](https://img.shields.io/badge/PHP-WordPress-blue?logo=wordpress&logoColor=white)
 
 ### Here are my details 👇
 * [LinkedIn](https://www.linkedin.com/in/alfiephillips/)
