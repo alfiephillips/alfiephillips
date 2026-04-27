@@ -25,7 +25,8 @@ I prioritize building small, considered websites that are built to last:
 * **Workflow**: Small-team efficiency and long-term project maintenance.
 
 ---
-
+## 📈 GitHub Stats
+![Alfie's GitHub stats](https://alfiephillips.com/api/github-stats)
 ---
 
 ## 📬 Let's Connect
