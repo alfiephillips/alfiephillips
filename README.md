@@ -26,7 +26,7 @@ I prioritize building small, considered websites that are built to last:
 
 ---
 ## 📈 GitHub Stats
-![Alfie's GitHub stats](https://alfiephillips.com/api/github-stats)
+![Alfie's GitHub stats](https://alfiephillips.com/api/github-stats?nocache)
 ---
 
 ## 📬 Let's Connect
