@@ -27,7 +27,7 @@ I prioritize building small, considered websites that are built to last:
 ---
 
 ## 📈 GitHub Stats
-![Alfie's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfiephillips&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)
+![Alfie's GitHub stats](https://alfiephillips.com/api/github-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alfiephillips&layout=compact&theme=dracula)
 
